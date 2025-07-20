@@ -24,7 +24,7 @@ Video Demonstration (Link) - https://youtu.be/CSHEDJ-ekBA
 |-------------|--------------------------|
 | UI          | Streamlit (Python-based) |
 | OCR Engine  | pytesseract              |
-| File Parser | pdf2image + PIL          |
+| File Parser | pdf2image                |
 | Database    | SQLite                   |
 | Language    | Python                   |
 

@@ -1,7 +1,8 @@
 #  Receipt & Bill Analyzer – Full Stack Python Application
 
 A complete full-stack mini-application that allows users to upload receipts and bills in various formats (PDF, JPG, PNG, TXT), extract structured data using OCR, and display insights such as total spending, top vendors, and monthly billing trends.
-
+---
+Video Demonstration (Link) - https://youtu.be/CSHEDJ-ekBA
 ---
 
 ##  Features
